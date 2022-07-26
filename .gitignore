@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# ingreso 25 de Julio 2022
+# target contenido de los .class
+target/
+.settings/
